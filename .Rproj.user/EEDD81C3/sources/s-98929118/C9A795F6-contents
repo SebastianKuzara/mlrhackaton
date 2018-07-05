@@ -1,0 +1,37 @@
+
+test <- read.csv("data/test.csv")
+train <- read.csv("data/train.csv")
+
+train_X <- train[ , 1:80]
+train_Y <- as.data.frame(train[ , 81])
+
+
+noOfNa.train <- sort(
+  sapply(train_X, function(x) {
+    sum(is.na(x))
+  }),
+  decreasing = TRUE
+)
+
+noOfNa.train <- noOfNa.train[noOfNa.train >0]
+
+varsNA.train <- c(MasVnrType   
+                  MasVnrArea 
+                  Electrical  - NA      
+                  LotFrontag)
+
+noOfNA.test <- sort(
+  sapply(test, function(x) {
+    sum(is.na(x))
+  }),
+  decreasing = TRUE
+)
+noOfNA.test <- noOfNA.test[noOfNA.test >0]
+
+names(noOfNA.test)[!(names(noOfNA.test) %in% names(noOfNa.train))]
+
+
+names(train)[!(names(train) %in% names(test))]
+
+
+

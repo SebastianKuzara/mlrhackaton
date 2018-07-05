@@ -1,0 +1,47 @@
+PoolQC   - no pool
+MiscFeature   - none      
+Alley  - no access to alley        
+Fence   - no fence
+FireplaceQu - no fireplace  
+GarageType   - no garage
+GarageYrBlt  - no garage
+GarageFinish    - no garage 
+GarageQual     - no garage
+GarageCond   - no garage
+BsmtExposure  - no basement
+BsmtFinType2     - no basement
+BsmtQual - no basement     
+BsmtCond  - no basement
+BsmtFinType1 - no basement
+   
+
+MasVnrType - NA   
+MasVnrArea  - NA
+Electrical  - NA      
+LotFrontage  - NA 
+
+
+ [1] "MSZoning"   - NA  
+"Utilities"    NA
+"BsmtFullBath" NA
+"BsmtHalfBath" NA
+"Functional"   NA
+"Exterior1st"  NA
+"Exterior2nd" NA
+ [8] "BsmtFinSF1"  NA
+ "BsmtFinSF2" NA
+  "BsmtUnfSF"   NA
+ "TotalBsmtSF"  NA
+ "KitchenQual"  NA
+ "GarageCars"   NA
+"GarageArea"   NA
+[15] "SaleType" NA
+
+
+
+
+
+"MSZoning"     "Utilities"    "BsmtFullBath" "BsmtHalfBath" "Functional"   "Exterior1st"  "Exterior2nd" 
+ [8] "BsmtFinSF1"   "BsmtFinSF2"   "BsmtUnfSF"    "TotalBsmtSF"  "KitchenQual"  "GarageCars"   "GarageArea"  
+[15] "SaleType"   
+

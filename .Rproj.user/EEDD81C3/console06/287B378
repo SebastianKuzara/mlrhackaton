@@ -121,3 +121,15 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git add .
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git commit -m ""[Kadd [K[K[K[Kadd data"
+[seb ed8d4e3] add data
+ 9 files changed, 4951 insertions(+), 1 deletion(-)
+ create mode 100644 data/data_description.txt
+ create mode 100644 data/sample_submission.csv
+ create mode 100644 data/test.csv
+ create mode 100644 data/train.csv
+ create mode 100644 raw/all.zip
+ create mode 100644 raw/all/sample_submission.csv.gz
+ create mode 100644 raw/all/test.csv.gz
+ create mode 100644 raw/all/train.csv.gz
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git add .
