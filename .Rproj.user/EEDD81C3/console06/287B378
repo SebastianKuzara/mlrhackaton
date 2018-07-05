@@ -75,3 +75,49 @@ From https://github.com/SebastianKuzara/mlrhackaton
 ]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git checkout -b seb
 Switched to a new branch 'seb'
 ]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git add . [K
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m gi [Kt commit -m "AD[K[Kadd directories"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'nina@nina-K52Je.(none)')
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git config --global user.email "skuzara358@gmail.com"
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git config --global user.name "SebastianKuza[Kara"
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git config --global user.name "SebastianKuzara"email "skuzara358@gmail.com"[22Pmmit -m "add directories"
+[seb da5078e] add directories
+ 8 files changed, 210 insertions(+)
+ create mode 100644 .Rproj.user/EEDD81C3/console06/287B378
+ create mode 100644 .Rproj.user/EEDD81C3/console06/287B378.env
+ create mode 100644 .Rproj.user/EEDD81C3/console06/INDEX001
+ create mode 100644 .Rproj.user/EEDD81C3/sources/s-98929118/C9A795F6
+ create mode 100644 .Rproj.user/EEDD81C3/sources/s-98929118/C9A795F6-contents
+ create mode 100644 .Rproj.user/EEDD81C3/sources/s-98929118/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 hackaton.Rproj
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git staus
+git: 'staus' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git status
+On branch seb
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/EEDD81C3/console06/287B378[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mraw/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git add .
