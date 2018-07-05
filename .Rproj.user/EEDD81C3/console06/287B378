@@ -1,0 +1,77 @@
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m gi init[K[K[K[K[K[K[Kgit init
+The program 'git' is currently not installed. You can install it by typing:
+sudo apt install git
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git init
+Initialized empty Git repository in /home/nina/Dokumenty/R/whyR/2018/workshops/hackaton/.git/
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git[K[K[K^V[Kv[Kgit remote -v https://github.com/SebastianKuzara/mlrhackaton
+error: Unknown subcommand: https://github.com/SebastianKuzara/mlrhackaton
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git remote -v https://github.com/SebastianKuzara/mlrhackaton[C https://github.com/SebastianKuzara/mlrhackatono https://github.com/SebastianKuzara/mlrhackatonr https://github.com/SebastianKuzara/mlrhackaton [A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci https://github.com/SebastianKuzara/mlrhackatonn[A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg https://github.com/SebastianKuzara/mlrhackaton[A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci https://github.com/SebastianKuzara/mlrhackaton[A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn https://github.com/SebastianKuzara/mlrhackaton[A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/SebastianKuzara/mlrhackaton[A]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git remote origin https://github.com/SebastianKuzara/mlrhackato n
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m [K]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git remote add origin https://github.com/SebastianKuzara/mlrhac katon
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git branch
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git pull orign[Kin
+g ^[[A^[[B        remote: Counting objects: 3, done.[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+m remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+From https://github.com/SebastianKuzara/mlrhackaton
+ * [new branch]      master     -> origin/master
+You asked to pull from the remote 'origin', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git pull origin master
+From https://github.com/SebastianKuzara/mlrhackaton
+ * branch            master     -> FETCH_HEAD
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git checkout -b seb
+Switched to a new branch 'seb'
+]0;/home/nina/Dokumenty/R/whyR/2018/workshops/hackaton]0;nina@nina-K52Je ~/Dokumenty/R/whyR/2018/workshops/hackaton[01;32mnina@nina-K52Je[00m [01;34m~/Dokumenty/R/whyR/2018/workshops/hackaton $[00m git add . [K
